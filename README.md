@@ -21,7 +21,5 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 [© Codrops 2015](http://www.codrops.com)
 
-
-
-
+## Remade with React and Create-react-app on react branch
 
