@@ -21,7 +21,9 @@ Follow Codrops: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www
 
 [© Codrops 2015](http://www.codrops.com)
 
+## Update
 
+See `react` branch for React and React-create-app build, and `vue` branch for Vue and @vue/cli build.
 
 
 
