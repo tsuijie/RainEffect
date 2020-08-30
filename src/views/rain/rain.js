@@ -3,7 +3,7 @@ import RainRenderer from "./rain-renderer";
 import Raindrops from "./raindrops";
 import {createCanvas, times, random, chance} from "./helpers";
 import { TweenLite, Quint } from 'gsap';
-import getImage from "@/views/rain/image-loader";
+import getImage from "./image-loader";
 
 let textureRainFg, textureRainBg,
   textureStormLightningFg, textureStormLightningBg,
