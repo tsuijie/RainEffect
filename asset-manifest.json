@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/RainEffect/static/css/main.55932be9.chunk.css",
+    "main.js": "/RainEffect/static/js/main.235ba0e1.chunk.js",
+    "main.js.map": "/RainEffect/static/js/main.235ba0e1.chunk.js.map",
+    "runtime-main.js": "/RainEffect/static/js/runtime-main.5a450691.js",
+    "runtime-main.js.map": "/RainEffect/static/js/runtime-main.5a450691.js.map",
+    "static/js/2.50db5c07.chunk.js": "/RainEffect/static/js/2.50db5c07.chunk.js",
+    "static/js/2.50db5c07.chunk.js.map": "/RainEffect/static/js/2.50db5c07.chunk.js.map",
+    "index.html": "/RainEffect/index.html",
+    "precache-manifest.463704381410bfb181ff768b5f0f03be.js": "/RainEffect/precache-manifest.463704381410bfb181ff768b5f0f03be.js",
+    "service-worker.js": "/RainEffect/service-worker.js",
+    "static/css/main.55932be9.chunk.css.map": "/RainEffect/static/css/main.55932be9.chunk.css.map",
+    "static/js/2.50db5c07.chunk.js.LICENSE.txt": "/RainEffect/static/js/2.50db5c07.chunk.js.LICENSE.txt",
+    "static/media/texture-rain-bg.png": "/RainEffect/static/media/texture-rain-bg.1a5d08c1.png",
+    "static/media/texture-rain-fg.png": "/RainEffect/static/media/texture-rain-fg.e8973e27.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a450691.js",
+    "static/js/2.50db5c07.chunk.js",
+    "static/css/main.55932be9.chunk.css",
+    "static/js/main.235ba0e1.chunk.js"
+  ]
+}
