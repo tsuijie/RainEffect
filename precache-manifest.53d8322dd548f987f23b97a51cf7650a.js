@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a8c642d85474bca8312a9288f62f2e4",
+    "revision": "e9935961836bc74ae36e6fc59b7425f3",
     "url": "/RainEffect/index.html"
   },
   {
-    "revision": "a985f7d0bc17818e51e2",
+    "revision": "a3130dccda35932e09be",
     "url": "/RainEffect/static/css/main.55932be9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RainEffect/static/js/2.50db5c07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a985f7d0bc17818e51e2",
-    "url": "/RainEffect/static/js/main.235ba0e1.chunk.js"
+    "revision": "a3130dccda35932e09be",
+    "url": "/RainEffect/static/js/main.240d5cca.chunk.js"
   },
   {
     "revision": "cdc2777005caef5da690",

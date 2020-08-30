@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RainEffect/precache-manifest.463704381410bfb181ff768b5f0f03be.js"
+  "/RainEffect/precache-manifest.53d8322dd548f987f23b97a51cf7650a.js"
 );
 
 self.addEventListener('message', (event) => {
